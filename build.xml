@@ -10,7 +10,7 @@
   <target name="init">
     <!-- Create the time stamp -->
     <tstamp/>
-    <!-- Create the build directory structure used by compile -->jkjkkkk
+    <!-- Create the build directory structure used by compile -->jkjkkk
     <mkdir dir="${build}"/>
   </target>
 
